@@ -1,0 +1,15 @@
+*.py[cod]
+.env
+.envrc
+.venv
+__pycache__
+dist
+tmp/
+
+.coverage
+htmlcov/
+.pytest_cache/
+.vscode
+*.bak
+media
+
